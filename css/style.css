@@ -278,9 +278,9 @@
           padding: 6px;
           position: absolute;
           top: -40px;
-          -webkit-transition: 0s;
+          -webkit-transition: initial;
           /* Your code here - set to default setting */
-          transition: 0s;
+          transition: initial;
           /* Your code here - set to default setting */
           z-index: 1;
       }
